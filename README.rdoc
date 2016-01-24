@@ -2,7 +2,7 @@
 
 Building demo blog rusrails
 
-http://rusrails.ru/
+http://rusrails.ru/getting-started-with-rails
 
 * Ruby version 2.1.2
 
@@ -16,4 +16,4 @@ http://rusrails.ru/
 
 * ...
 
-chapter 5.12
+chapter 6
