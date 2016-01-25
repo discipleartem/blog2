@@ -1,6 +1,6 @@
 == README
 
-Building demo blog rusrails
+Building a scary demo blog with rusrails
 
 http://rusrails.ru/getting-started-with-rails
 
@@ -10,10 +10,8 @@ http://rusrails.ru/getting-started-with-rails
 
 * Ubuntu 14.04
 
-* Database postgres/sqlite3
+* Database postgres
 
-* Deployment instructions
+* Deployment from http://railstutorial.ru/chapters/4_0/beginning#sec-deploying
 
-* ...
-
-chapter 6
+https://murmuring-hollows-33160.herokuapp.com
